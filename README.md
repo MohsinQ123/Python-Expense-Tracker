@@ -9,9 +9,15 @@ Data Persistence: Expense data is stored in a JSON file, allowing users to save 
 
 ## How to Use:
 Clone the repository to your local machine.
+
 Run the expense_tracker.py script.
+
 Choose an option from the menu:
+
 Log Expense: Enter details of the expense to log it.
+
 View Summary: See a summary of total expenses for each category.
+
 Quit: Exit the Expense Tracker program.
+
 Follow the on-screen prompts to log expenses and view summaries
