@@ -8,16 +8,16 @@ Summary Display: Users can view a summary of their total expenses for each categ
 Data Persistence: Expense data is stored in a JSON file, allowing users to save and retrieve their data across sessions.
 
 ## How to Use:
-Clone the repository to your local machine.
+1. Clone the repository to your local machine.
 
-Run the expense_tracker.py script.
+2. Run the expense_tracker.py script.
 
-Choose an option from the menu:
+3. Choose an option from the menu:
 
-Log Expense: Enter details of the expense to log it.
+    - Log Expense: Enter details of the expense to log it.
 
-View Summary: See a summary of total expenses for each category.
+    - View Summary: See a summary of total expenses for each category.
 
-Quit: Exit the Expense Tracker program.
+    - Quit: Exit the Expense Tracker program.
 
-Follow the on-screen prompts to log expenses and view summaries
+4. Follow the on-screen prompts to log expenses and view summaries
